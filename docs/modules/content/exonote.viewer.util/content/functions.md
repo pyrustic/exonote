@@ -1,4 +1,4 @@
-Back to [All Modules](https://github.com/pyrustic/blob/master/docs/modules/README.md#readme)
+Back to [All Modules](https://github.com/pyrustic/exonote/blob/master/docs/modules/README.md#readme)
 
 # Module Overview
 
@@ -6,7 +6,7 @@ Back to [All Modules](https://github.com/pyrustic/blob/master/docs/modules/READM
  
 No description
 
-> **Classes:** &nbsp; [Scrollable](https://github.com/pyrustic/blob/master/docs/modules/content/exonote.viewer.util/content/classes/Scrollable.md#class-scrollable)
+> **Classes:** &nbsp; [Scrollable](https://github.com/pyrustic/exonote/blob/master/docs/modules/content/exonote.viewer.util/content/classes/Scrollable.md#class-scrollable)
 >
 > **Functions:** &nbsp; [abspath](#abspath) &nbsp;&nbsp; [get\_monospace\_height](#get_monospace_height) &nbsp;&nbsp; [get\_pages](#get_pages) &nbsp;&nbsp; [on\_mouse\_wheel](#on_mouse_wheel) &nbsp;&nbsp; [order\_sids](#order_sids) &nbsp;&nbsp; [scroll\_down](#scroll_down) &nbsp;&nbsp; [scroll\_up](#scroll_up) &nbsp;&nbsp; [update\_index](#update_index)
 >

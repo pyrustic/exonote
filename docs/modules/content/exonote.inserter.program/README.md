@@ -1,4 +1,4 @@
-Back to [All Modules](https://github.com/pyrustic/blob/master/docs/modules/README.md#readme)
+Back to [All Modules](https://github.com/pyrustic/exonote/blob/master/docs/modules/README.md#readme)
 
 # Module Overview
 
@@ -6,8 +6,8 @@ Back to [All Modules](https://github.com/pyrustic/blob/master/docs/modules/READM
  
 No description
 
-> **Classes:** &nbsp; [ProgramInserter](https://github.com/pyrustic/blob/master/docs/modules/content/exonote.inserter.program/content/classes/ProgramInserter.md#class-programinserter)
+> **Classes:** &nbsp; [ProgramInserter](https://github.com/pyrustic/exonote/blob/master/docs/modules/content/exonote.inserter.program/content/classes/ProgramInserter.md#class-programinserter)
 >
-> **Functions:** &nbsp; [is\_class](https://github.com/pyrustic/blob/master/docs/modules/content/exonote.inserter.program/content/functions.md#is_class)
+> **Functions:** &nbsp; [is\_class](https://github.com/pyrustic/exonote/blob/master/docs/modules/content/exonote.inserter.program/content/functions.md#is_class)
 >
 > **Constants:** &nbsp; None

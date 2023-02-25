@@ -1,4 +1,4 @@
-Back to [All Modules](https://github.com/pyrustic/blob/master/docs/modules/README.md#readme)
+Back to [All Modules](https://github.com/pyrustic/exonote/blob/master/docs/modules/README.md#readme)
 
 # Module Overview
 

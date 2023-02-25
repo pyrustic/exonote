@@ -1,4 +1,4 @@
-Back to [All Modules](https://github.com/pyrustic/blob/master/docs/modules/README.md#readme)
+Back to [All Modules](https://github.com/pyrustic/exonote/blob/master/docs/modules/README.md#readme)
 
 # Module Overview
 
@@ -6,7 +6,7 @@ Back to [All Modules](https://github.com/pyrustic/blob/master/docs/modules/READM
  
 No description
 
-> **Classes:** &nbsp; [CodeblockInserter](https://github.com/pyrustic/blob/master/docs/modules/content/exonote.inserter.codeblock/content/classes/CodeblockInserter.md#class-codeblockinserter)
+> **Classes:** &nbsp; [CodeblockInserter](https://github.com/pyrustic/exonote/blob/master/docs/modules/content/exonote.inserter.codeblock/content/classes/CodeblockInserter.md#class-codeblockinserter)
 >
 > **Functions:** &nbsp; None
 >

@@ -1,4 +1,4 @@
-Back to [All Modules](https://github.com/pyrustic/blob/master/docs/modules/README.md#readme)
+Back to [All Modules](https://github.com/pyrustic/exonote/blob/master/docs/modules/README.md#readme)
 
 # Module Overview
 
@@ -6,7 +6,7 @@ Back to [All Modules](https://github.com/pyrustic/blob/master/docs/modules/READM
  
 No description
 
-> **Classes:** &nbsp; [IndexParser](https://github.com/pyrustic/blob/master/docs/modules/content/exonote.utils/content/classes/IndexParser.md#class-indexparser)
+> **Classes:** &nbsp; [IndexParser](https://github.com/pyrustic/exonote/blob/master/docs/modules/content/exonote.utils/content/classes/IndexParser.md#class-indexparser)
 >
 > **Functions:** &nbsp; [get\_callable](#get_callable) &nbsp;&nbsp; [get\_standard\_font\_family](#get_standard_font_family) &nbsp;&nbsp; [split\_target](#split_target) &nbsp;&nbsp; [update\_clipboard](#update_clipboard)
 >
