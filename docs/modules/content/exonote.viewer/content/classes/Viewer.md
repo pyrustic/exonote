@@ -55,7 +55,7 @@ Initialize self.  See help(type(self)) for accurate signature.
 
 
 
-**Signature:** (self, editor, dossier=None, style=<exonote.style.Style object at 0x7fbd04155a00>, inserter=<class 'exonote.inserter.Inserter'>, scroll\_step=25, restriction=0, statusbar=<class 'exonote.statusbar.DefaultStatusBar'>, on\_open=None, on\_press\_left=None, on\_press\_right=None, on\_press\_up=None, on\_press\_down=None, update\_sys\_path=True)
+**Signature:** (self, editor, dossier=None, style=<exonote.style.Style object at 0x7f45f744b9a0>, inserter=<class 'exonote.inserter.Inserter'>, scroll\_step=25, restriction=0, statusbar=<class 'exonote.statusbar.DefaultStatusBar'>, on\_open=None, on\_press\_left=None, on\_press\_right=None, on\_press\_up=None, on\_press\_down=None, update\_sys\_path=True)
 
 
 
